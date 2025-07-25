@@ -23,3 +23,4 @@ b=(wspeed[6,1]+wspeed[6,2]+wspeed[6,3])/4
 b=b*1609.34/3600
 print('Average July peak wind speed (m/s)')
 print(b)
+print("김밥 먹고싶다")
